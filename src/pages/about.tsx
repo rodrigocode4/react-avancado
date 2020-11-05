@@ -11,7 +11,7 @@ export default function About() {
         <div>
           <h1>
             Sobre
-                    </h1>
+          </h1>
           <Link href="/">
             <a>Home</a>
           </Link>
